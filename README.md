@@ -1,7 +1,8 @@
 # Login Page Testing with Cypress
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c91d1139-094b-40f6-8b57-67e072d8baaa/deploy-status)](https://app.netlify.com/projects/login-page-testing/deploys)
-![Cypress Tests](https://github.com/MadhavAgrawal06/login-page-testing/actions/workflows/cypress.yml/badge.svg)
+[![Cypress Tests](https://github.com/MadhavAgrawal06/login-page-testing/actions/workflows/cypress.yml/badge.svg)](https://github.com/MadhavAgrawal06/login-page-testing/actions/workflows/cypress.yml)
+
 
 This project demonstrates UI testing of a basic login page using **Cypress**. It includes validations for login button states, valid/invalid login attempts, and behavior when fields are empty.
 

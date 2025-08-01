@@ -9,6 +9,7 @@ This project demonstrates UI testing of a basic login page using **Cypress**. It
 
 - HTML, CSS, JavaScript (for the login page)
 - [Cypress](https://www.cypress.io/) for end-to-end testing
+- GitHub Actions for CI (test automation on push)
 
 ## 📝 Features Covered
 

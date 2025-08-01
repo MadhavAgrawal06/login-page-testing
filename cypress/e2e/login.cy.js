@@ -4,7 +4,7 @@ describe("Login Page Tests", () => {
   });
 
   it("Login button disabled initially", () => {
-    cy.get("#loginButton").should("not.be.disabled");
+    cy.get("#loginButton").should("be.disabled");
   });
 
   it("Enable login button when fields are filled", () => {

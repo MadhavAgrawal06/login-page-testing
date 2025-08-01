@@ -18,8 +18,3 @@ jobs:
 
       - name: Run Cypress Tests
         run: npx cypress run
-
-      - name: Trigger Netlify Build if Tests Pass
-        if: success()
-        run: |
-          curl -X POST "${{ secrets.NETLIFY_BUILD_HOOK }}"

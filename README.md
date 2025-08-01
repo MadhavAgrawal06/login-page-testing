@@ -15,14 +15,17 @@ This project demonstrates UI testing of a basic login page using **Cypress**. It
 - Error message for invalid credentials
 - Button remains disabled if fields are empty
 
-📌 Note
-
 ### ✅ Valid Login Credentials
-- **Username**: `corrUsername`
-- **Password**: `corrPassword`
-Make sure your HTML and Cypress paths are correctly linked during local testing.
 
-👨‍💻 Author
-Madhav Agrawal
-📧 agrawalmad00@gmail.com
+Use the following credentials to test successful login:
+
+- **Username**: `corrUsername`  
+- **Password**: `corrPassword`
+
+> ℹ️ *Ensure your HTML paths and Cypress test setup are properly configured when testing locally.*
+
+## 👨‍💻 Author
+
+**Madhav Agrawal**  
+📧 [agrawalmad00@gmail.com](mailto:agrawalmad00@gmail.com)  
 📱 +91 7618830195

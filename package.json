@@ -1,0 +1,13 @@
+{
+  "name": "login-page-testing",
+  "version": "1.0.0",
+  "description": "UI Testing for Login Page using Cypress",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  }
+}

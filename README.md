@@ -15,6 +15,12 @@ This project demonstrates UI testing of a basic login page using **Cypress**. It
 - Error message for invalid credentials
 - Button remains disabled if fields are empty
 
+### 📸 Sample Screenshot
+
+Here is a screenshot of the Login Page:
+
+![Login Success](Screenshot.png)
+
 ### ✅ Valid Login Credentials
 
 Use the following credentials to test successful login:
